@@ -1,6 +1,5 @@
 *** Settings ***
 Library    SeleniumLibrary
-Library    SeleniumLibrary
 
 *** Variables ***
 ${ADDCUSTOMER_HEADER_LABEL} =      Add Customer
